@@ -1,7 +1,7 @@
 arch: UKAN
 batch_size: 8
 cfg: null
-data_dir: /data/cxli/code/U-KAN/inputs/
+data_dir: dataset
 dataseed: 2981
 dataset: busi
 deep_supervision: false
